@@ -1162,5 +1162,368 @@
   },
   [6667] = {
     map = "Route 31 Violet Gate"
+  },
+  [6913] = {
+    map = "Viridian Forest"
+  },
+  [6914] = {
+    map = "Viridian Forest Gate North"
+  },
+  [6915] = {
+    map = "Viridian Forest Gate South"
+  },
+  [6916] = {
+    map = "Mt Moon B1F"
+  },
+  [6917] = {
+    map = "Mt Moon B2F"
+  },
+  [6918] = {
+    map = "Mt Moon B3F"
+  },
+  [6919] = {
+    map = "Mount Moon Pokecenter 1F"
+  },
+  [6920] = {
+    map = "Ceruleancave1"
+  },
+  [6921] = {
+    map = "Ceruleancave2"
+  },
+  [6922] = {
+    map = "Ceruleancave3"
+  },
+  [6923] = {
+    map = "Mewislandunderground"
+  },
+  [6924] = {
+    map = "Mewislandentrancedock"
+  },
+  [6925] = {
+    map = "Mewislandb1B"
+  },
+  [6926] = {
+    map = "Mewislandb1"
+  },
+  [6927] = {
+    map = "Mewislandf1"
+  },
+  [6928] = {
+    map = "Mewislandf2"
+  },
+  [6929] = {
+    map = "Mewislandpeak"
+  },
+  [6930] = {
+    map = "Battle Tent Ruins"
+  },
+  [6931] = {
+    map = "Battle Tent Battle Room"
+  },
+  [6932] = {
+    map = "Battle Tent Generator"
+  },
+  [6933] = {
+    map = "Rocket Hideout 1"
+  },
+  [6934] = {
+    map = "Rocket Hideout 2"
+  },
+  [6935] = {
+    map = "Rocket Hideout 3"
+  },
+  [6936] = {
+    map = "Rocket Hideout 4"
+  },
+  [6937] = {
+    map = "Battle Tent Pc Room"
+  },
+  [6938] = {
+    map = "Olivine Lighthouse Elevator"
+  },
+  [6939] = {
+    map = "Powerplantb1"
+  },
+  [6940] = {
+    map = "Powerplantb2"
+  },
+  [6941] = {
+    map = "Entei Room"
+  },
+  [6942] = {
+    map = "Raikou Room"
+  },
+  [6943] = {
+    map = "Suicune Room"
+  },
+  [7169] = {
+    map = "Cinnabar Volcano Entrance"
+  },
+  [7170] = {
+    map = "Cinnabar Volcano B1F"
+  },
+  [7171] = {
+    map = "Cinnabar Volcano B2F"
+  },
+  [7172] = {
+    map = "Cinnabar Volcano B3F"
+  },
+  [7173] = {
+    map = "Seafoam Islands Entrance"
+  },
+  [7174] = {
+    map = "Seafoam Islands B1F"
+  },
+  [7175] = {
+    map = "Seafoam Islands B2F"
+  },
+  [7176] = {
+    map = "Seafoam Islands B3F"
+  },
+  [7177] = {
+    map = "Tohjo Falls Back Room"
+  },
+  [7178] = {
+    map = "Celadon Dept Store B1F"
+  },
+  [7179] = {
+    map = "Silver Cave Dream Room"
+  },
+  [7180] = {
+    map = "Mt Silver Ruins"
+  },
+  [7181] = {
+    map = "Mt Silver Ruins B1"
+  },
+  [7182] = {
+    map = "Bills Garden"
+  },
+  [7183] = {
+    map = "Dummy Blank Map"
+  },
+  [7184] = {
+    map = "Cinnabar Volcano Hallway"
+  },
+  [7185] = {
+    map = "Cinnabar Volcano Lab"
+  },
+  [7425] = {
+    map = "Route 1"
+  },
+  [7426] = {
+    map = "Pallet Town"
+  },
+  [7427] = {
+    map = "Reds House 1F"
+  },
+  [7428] = {
+    map = "Reds House 2F"
+  },
+  [7429] = {
+    map = "Blues House"
+  },
+  [7430] = {
+    map = "Oaks Lab"
+  },
+  [7681] = {
+    map = "Route 2"
+  },
+  [7682] = {
+    map = "Route 22"
+  },
+  [7683] = {
+    map = "Viridian City"
+  },
+  [7684] = {
+    map = "Viridian Mart"
+  },
+  [7685] = {
+    map = "Viridian Pokecenter 1F"
+  },
+  [7686] = {
+    map = "Viridian Nickname Speech House"
+  },
+  [7687] = {
+    map = "Viridian Trainer School"
+  },
+  [7688] = {
+    map = "Victory Road Gate"
+  },
+  [7689] = {
+    map = "Route 23"
+  },
+  [7690] = {
+    map = "Route 2 Nugget Speech House"
+  },
+  [7691] = {
+    map = "Route 2 Gate"
+  },
+  [7937] = {
+    map = "Pewter City"
+  },
+  [7938] = {
+    map = "Pewter Gym"
+  },
+  [7939] = {
+    map = "Pewter Mart"
+  },
+  [7940] = {
+    map = "Pewter Pokecenter 1F"
+  },
+  [7941] = {
+    map = "Pewter Snooze Speech House"
+  },
+  [7942] = {
+    map = "Pewter Nidoran Speech House"
+  },
+  [7943] = {
+    map = "Pewter Museum 1F"
+  },
+  [7944] = {
+    map = "Pewter Museum 2F"
+  },
+  [7945] = {
+    map = "Route 3"
+  },
+  [7946] = {
+    map = "Mount Moon Pokecenter 1F"
+  },
+  [8193] = {
+    map = "Cerulean Gym"
+  },
+  [8194] = {
+    map = "Route 4"
+  },
+  [8195] = {
+    map = "Cerulean City"
+  },
+  [8196] = {
+    map = "Cerulean Pokecenter 1F"
+  },
+  [8197] = {
+    map = "Cerulean Mart"
+  },
+  [8198] = {
+    map = "Cerulean Gym Badge Speech House"
+  },
+  [8199] = {
+    map = "Cerulean Trade Speech House"
+  },
+  [8200] = {
+    map = "Route 24"
+  },
+  [8201] = {
+    map = "Route 25"
+  },
+  [8202] = {
+    map = "Bills House"
+  },
+  [8203] = {
+    map = "Route 9"
+  },
+  [8449] = {
+    map = "Route 6 Saffron Gate"
+  },
+  [8450] = {
+    map = "Route 6 Underground Entrance"
+  },
+  [8451] = {
+    map = "Route 6"
+  },
+  [8452] = {
+    map = "Vermilion City"
+  },
+  [8453] = {
+    map = "Vermilion Pokecenter 1F"
+  },
+  [8454] = {
+    map = "Vermilion Mart"
+  },
+  [8455] = {
+    map = "Vermilion House Fishing Speech House"
+  },
+  [8456] = {
+    map = "Pokemon Fan Club"
+  },
+  [8457] = {
+    map = "Vermilion Magnet Train Speech House"
+  },
+  [8458] = {
+    map = "Vermilion House Digletts Cave Speech House"
+  },
+  [8459] = {
+    map = "Route 11"
+  },
+  [8460] = {
+    map = "Route 11 Gate"
+  },
+  [8461] = {
+    map = "Route 12"
+  },
+  [8705] = {
+    map = "Route 5"
+  },
+  [8706] = {
+    map = "Route 5 Underground Entrance"
+  },
+  [8707] = {
+    map = "Route 5 Saffron City Gate"
+  },
+  [8961] = {
+    map = "Viridian Forest"
+  },
+  [8962] = {
+    map = "Viridian Forest North"
+  },
+  [8963] = {
+    map = "Viridian Forest South"
+  },
+  [8964] = {
+    map = "Digletts Cave"
+  },
+  [8965] = {
+    map = "Mt Moon B1F"
+  },
+  [8966] = {
+    map = "Mt Moon B2F"
+  },
+  [8967] = {
+    map = "Mt Moon B3F"
+  },
+  [8968] = {
+    map = "Underground"
+  },
+  [8969] = {
+    map = "Vermilion Dock"
+  },
+  [8970] = {
+    map = "S S Anne 1"
+  },
+  [8971] = {
+    map = "S S Anne 2"
+  },
+  [8972] = {
+    map = "S S Anne 3"
+  },
+  [8973] = {
+    map = "S S Anne 4"
+  },
+  [8974] = {
+    map = "S S Anne 5"
+  },
+  [8975] = {
+    map = "S S Anne 6"
+  },
+  [8976] = {
+    map = "S S Anne 7"
+  },
+  [8977] = {
+    map = "S S Anne 8"
+  },
+  [8978] = {
+    map = "S S Anne 9"
+  },
+  [8979] = {
+    map = "S S Anne 10"
   }
 }
