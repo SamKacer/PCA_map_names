@@ -1,6 +1,6 @@
 {
   [257] = {
-    map = "Olivine Pokémon Center 1F"
+    map = "Olivine Pokecenter 1F"
   },
   [258] = {
     map = "Olivine Gym"
@@ -9,36 +9,33 @@
     map = "Olivine Voltorb House"
   },
   [260] = {
-    map = "Olivine House Beta"
-  },
-  [261] = {
     map = "Olivine Punishment Speech House"
   },
-  [262] = {
+  [261] = {
     map = "Olivine Good Rod House"
   },
-  [263] = {
+  [262] = {
     map = "Olivine Cafe"
   },
-  [264] = {
+  [263] = {
     map = "Olivine Mart"
   },
-  [265] = {
+  [264] = {
     map = "Route 38 Ecruteak Gate"
   },
-  [266] = {
+  [265] = {
     map = "Route 39 Barn"
   },
-  [267] = {
+  [266] = {
     map = "Route 39 Farmhouse"
   },
-  [268] = {
+  [267] = {
     map = "Route 38"
   },
-  [269] = {
+  [268] = {
     map = "Route 39"
   },
-  [270] = {
+  [269] = {
     map = "Olivine City"
   },
   [513] = {
@@ -48,7 +45,7 @@
     map = "Mahogany Gym"
   },
   [515] = {
-    map = "Mahogany Pokémon Center 1F"
+    map = "Mahogany Pokecenter 1F"
   },
   [516] = {
     map = "Route 42 Ecruteak Gate"
@@ -126,49 +123,49 @@
     map = "Radio Tower 5F"
   },
   [790] = {
-    map = "Ruins of Alph Outside"
+    map = "Ruins Of Alph Outside"
   },
   [791] = {
-    map = "Ruins of Alph Ho-oh Chamber"
+    map = "Ruins Of Alph Ho Oh Chamber"
   },
   [792] = {
-    map = "Ruins of Alph Kabuto Chamber"
+    map = "Ruins Of Alph Kabuto Chamber"
   },
   [793] = {
-    map = "Ruins of Alph Omanyte Chamber"
+    map = "Ruins Of Alph Omanyte Chamber"
   },
   [794] = {
-    map = "Ruins of Alph Aerodactyl Chamber"
+    map = "Ruins Of Alph Aerodactyl Chamber"
   },
   [795] = {
-    map = "Ruins of Alph Inner Chamber"
+    map = "Ruins Of Alph Inner Chamber"
   },
   [796] = {
-    map = "Ruins of Alph Research Center"
+    map = "Ruins Of Alph Research Center"
   },
   [797] = {
-    map = "Ruins of Alph Ho-oh Item Room"
+    map = "Ruins Of Alph Ho Oh Item Room"
   },
   [798] = {
-    map = "Ruins of Alph Kabuto Item Room"
+    map = "Ruins Of Alph Kabuto Item Room"
   },
   [799] = {
-    map = "Ruins of Alph Omanyte Item Room"
+    map = "Ruins Of Alph Omanyte Item Room"
   },
   [800] = {
-    map = "Ruins of Alph Aerodactyl Item Room"
+    map = "Ruins Of Alph Aerodactyl Item Room"
   },
   [801] = {
-    map = "Ruins of Alph Ho-Oh Word Room"
+    map = "Ruins Of Alph Ho Oh Word Room"
   },
   [802] = {
-    map = "Ruins of Alph Kabuto Word Room"
+    map = "Ruins Of Alph Kabuto Word Room"
   },
   [803] = {
-    map = "Ruins of Alph Omanyte Word Room"
+    map = "Ruins Of Alph Omanyte Word Room"
   },
   [804] = {
-    map = "Ruins of Alph Aerodactyl Word Room"
+    map = "Ruins Of Alph Aerodactyl Word Room"
   },
   [805] = {
     map = "Union Cave 1F"
@@ -258,19 +255,19 @@
     map = "Ice Path B3F"
   },
   [834] = {
-    map = "Whirl Island NW"
+    map = "Whirl Island Nw"
   },
   [835] = {
-    map = "Whirl Island NE"
+    map = "Whirl Island Ne"
   },
   [836] = {
-    map = "Whirl Island SW"
+    map = "Whirl Island Sw"
   },
   [837] = {
     map = "Whirl Island Cave"
   },
   [838] = {
-    map = "Whirl Island SE"
+    map = "Whirl Island Se"
   },
   [839] = {
     map = "Whirl Island B1F"
@@ -300,10 +297,10 @@
     map = "Dark Cave Blackthorn Entrance"
   },
   [848] = {
-    map = "Dragon's Den 1F"
+    map = "Dragons Den 1F"
   },
   [849] = {
-    map = "Dragon's Den B1F"
+    map = "Dragons Den B1F"
   },
   [850] = {
     map = "Dragon Shrine"
@@ -312,37 +309,28 @@
     map = "Tohjo Falls"
   },
   [852] = {
-    map = "Diglett's Cave"
+    map = "Digletts Cave"
   },
   [853] = {
-    map = "Mount Moon"
-  },
-  [854] = {
     map = "Underground"
   },
-  [855] = {
+  [854] = {
     map = "Rock Tunnel 1F"
   },
-  [856] = {
+  [855] = {
     map = "Rock Tunnel B1F"
   },
-  [857] = {
-    map = "Safari Zone Fuchsia Gate Beta"
-  },
-  [858] = {
-    map = "Safari Zone Beta"
-  },
-  [859] = {
+  [856] = {
     map = "Victory Road"
   },
   [1025] = {
     map = "Ecruteak House"
   },
   [1026] = {
-    map = "Wise Trio's Room"
+    map = "Wise Trios Room"
   },
   [1027] = {
-    map = "Ecruteak Pokémon Center 1F"
+    map = "Ecruteak Pokecenter 1F"
   },
   [1028] = {
     map = "Ecruteak Lugia Speech House"
@@ -360,6 +348,9 @@
     map = "Ecruteak Itemfinder House"
   },
   [1033] = {
+    map = "Ecruteak Elite Floor"
+  },
+  [1034] = {
     map = "Ecruteak City"
   },
   [1281] = {
@@ -369,51 +360,54 @@
     map = "Blackthorn Gym 2F"
   },
   [1283] = {
-    map = "Blackthorn Dragon Speech House"
+    map = "Blackthorngymrematch1F"
   },
   [1284] = {
-    map = "Blackthorn Dodrio Trade House"
+    map = "Blackthorngymrematch2F"
   },
   [1285] = {
-    map = "Blackthorn Mart"
+    map = "Blackthorn Dragon Speech House"
   },
   [1286] = {
-    map = "Blackthorn Pokémon Center 1F"
+    map = "Blackthorn Dodrio Trade House"
   },
   [1287] = {
-    map = "Move Deleter's House"
+    map = "Blackthorn Mart"
   },
   [1288] = {
-    map = "Route 45"
+    map = "Blackthorn Pokecenter 1F"
   },
   [1289] = {
-    map = "Route 46"
+    map = "Move Deleters House"
   },
   [1290] = {
+    map = "Route 45"
+  },
+  [1291] = {
+    map = "Route 46"
+  },
+  [1292] = {
     map = "Blackthorn City"
   },
   [1537] = {
-    map = "Cinnabar Pokémon Center 1F"
+    map = "Cinnabar Pokecenter 1F"
   },
   [1538] = {
-    map = "Cinnabar Pokémon Center 2F Beta"
+    map = "Route 19   Fuchsia Gate"
   },
   [1539] = {
-    map = "Route 19 - Fuchsia Gate"
-  },
-  [1540] = {
     map = "Seafoam Gym"
   },
-  [1541] = {
+  [1540] = {
     map = "Route 19"
   },
-  [1542] = {
+  [1541] = {
     map = "Route 20"
   },
-  [1543] = {
+  [1542] = {
     map = "Route 21"
   },
-  [1544] = {
+  [1543] = {
     map = "Cinnabar Island"
   },
   [1793] = {
@@ -426,49 +420,43 @@
     map = "Cerulean Trade Speech House"
   },
   [1796] = {
-    map = "Cerulean Pokémon Center 1F"
+    map = "Cerulean Pokecenter 1F"
   },
   [1797] = {
-    map = "Cerulean Pokémon Center 2F Beta"
-  },
-  [1798] = {
     map = "Cerulean Gym"
   },
-  [1799] = {
+  [1798] = {
     map = "Cerulean Mart"
   },
+  [1799] = {
+    map = "Route 10 Pokecenter 1F"
+  },
   [1800] = {
-    map = "Route 10 Pokémon Center 1F"
-  },
-  [1801] = {
-    map = "Route 10 Pokémon Center 2F Beta"
-  },
-  [1802] = {
     map = "Power Plant"
   },
-  [1803] = {
-    map = "Bill's House"
+  [1801] = {
+    map = "Bills House"
   },
-  [1804] = {
+  [1802] = {
     map = "Route 4"
   },
-  [1805] = {
+  [1803] = {
     map = "Route 9"
   },
-  [1806] = {
+  [1804] = {
     map = "Route 10 North"
   },
-  [1807] = {
+  [1805] = {
     map = "Route 24"
   },
-  [1808] = {
+  [1806] = {
     map = "Route 25"
   },
-  [1809] = {
+  [1807] = {
     map = "Cerulean City"
   },
   [2049] = {
-    map = "Azalea Pokémon Center 1F"
+    map = "Azalea Pokecenter 1F"
   },
   [2050] = {
     map = "Charcoal Kiln"
@@ -477,7 +465,7 @@
     map = "Azalea Mart"
   },
   [2052] = {
-    map = "Kurt's House"
+    map = "Kurts House"
   },
   [2053] = {
     map = "Azalea Gym"
@@ -489,10 +477,10 @@
     map = "Azalea Town"
   },
   [2305] = {
-    map = "Lake of Rage Hidden Power House"
+    map = "Lake Of Rage Hidden Power House"
   },
   [2306] = {
-    map = "Lake of Rage Magikarp House"
+    map = "Lake Of Rage Magikarp House"
   },
   [2307] = {
     map = "Route 43 Mahogany Gate"
@@ -504,7 +492,7 @@
     map = "Route 43"
   },
   [2310] = {
-    map = "Lake of Rage"
+    map = "Lake Of Rage"
   },
   [2561] = {
     map = "Route 32"
@@ -528,34 +516,34 @@
     map = "Violet Gym"
   },
   [2568] = {
-    map = "Earl's Pokémon Academy"
+    map = "Earls Pokemon Academy"
   },
   [2569] = {
     map = "Violet Nickname Speech House"
   },
   [2570] = {
-    map = "Violet Pokémon Center 1F"
+    map = "Violet Pokecenter 1F"
   },
   [2571] = {
     map = "Violet Onix Trade House"
   },
   [2572] = {
-    map = "Route 32 Ruins of Alph Gate"
+    map = "Route 32 Ruins Of Alph Gate"
   },
   [2573] = {
-    map = "Route 32 Pokémon Center 1F"
+    map = "Route 32 Pokecenter 1F"
   },
   [2574] = {
-    map = "Route 35 Goldenrod gate"
+    map = "Route 35 Goldenrod Gate"
   },
   [2575] = {
-    map = "Route 35 National Park gate"
+    map = "Route 35 National Park Gate"
   },
   [2576] = {
-    map = "Route 36 Ruins of Alph gate"
+    map = "Route 36 Ruins Of Alph Gate"
   },
   [2577] = {
-    map = "Route 36 National Park gate"
+    map = "Route 36 National Park Gate"
   },
   [2817] = {
     map = "Route 34"
@@ -573,7 +561,7 @@
     map = "Goldenrod Happiness Rater"
   },
   [2822] = {
-    map = "Goldenrod Bill's House"
+    map = "Goldenrod Bills House"
   },
   [2823] = {
     map = "Goldenrod Magnet Train Station"
@@ -582,10 +570,10 @@
     map = "Goldenrod Flower Shop"
   },
   [2825] = {
-    map = "Goldenrod PP Speech House"
+    map = "Goldenrod Pp Speech House"
   },
   [2826] = {
-    map = "Goldenrod Name Rater's House"
+    map = "Goldenrod Name Raters House"
   },
   [2827] = {
     map = "Goldenrod Dept Store 1F"
@@ -615,18 +603,21 @@
     map = "Goldenrod Game Corner"
   },
   [2836] = {
-    map = "Goldenrod Pokémon Center 1F"
+    map = "Goldenrod Pokecenter 1F"
   },
   [2837] = {
-    map = "Goldenrod PokéCom Center 2F Mobile"
+    map = "Goldenrod Pokecom Center 2F Mobile"
   },
   [2838] = {
-    map = "Ilex Forest Azalea Gate"
+    map = "Goldenrod Boutique"
   },
   [2839] = {
-    map = "Route 34 Ilex Forest Gate"
+    map = "Ilex Forest Azalea Gate"
   },
   [2840] = {
+    map = "Route 34 Ilex Forest Gate"
+  },
+  [2841] = {
     map = "Day Care"
   },
   [3073] = {
@@ -642,31 +633,37 @@
     map = "Vermilion House Fishing Speech House"
   },
   [3077] = {
-    map = "Vermilion Pokémon Center 1F"
+    map = "Vermilion Pokecenter 1F"
   },
   [3078] = {
-    map = "Vermilion Pokémon Center 2F Beta"
+    map = "Pokemon Fan Club"
   },
   [3079] = {
-    map = "Pokémon Fan Club"
-  },
-  [3080] = {
     map = "Vermilion Magnet Train Speech House"
   },
-  [3081] = {
+  [3080] = {
     map = "Vermilion Mart"
   },
+  [3081] = {
+    map = "Vermilion House Digletts Cave Speech House"
+  },
   [3082] = {
-    map = "Vermilion House Diglett's Cave Speech House"
+    map = "Vermilion Gym"
   },
   [3083] = {
-    map = "Vermilion Gym"
+    map = "Vermilion Gym 2"
   },
   [3084] = {
     map = "Route 6 Saffron Gate"
   },
   [3085] = {
     map = "Route 6 Underground Entrance"
+  },
+  [3086] = {
+    map = "Mewislandentrance"
+  },
+  [3087] = {
+    map = "Route 11 12 Gate"
   },
   [3329] = {
     map = "Route 1"
@@ -675,16 +672,16 @@
     map = "Pallet Town"
   },
   [3331] = {
-    map = "Red's House 1F"
+    map = "Reds House 1F"
   },
   [3332] = {
-    map = "Red's House 2F"
+    map = "Reds House 2F"
   },
   [3333] = {
-    map = "Blue's House"
+    map = "Blues House"
   },
   [3334] = {
-    map = "Oak's Lab"
+    map = "Oaks Lab"
   },
   [3585] = {
     map = "Route 3"
@@ -702,13 +699,13 @@
     map = "Pewter Mart"
   },
   [3590] = {
-    map = "Pewter Pokémon Center 1F"
+    map = "Pewter Pokecenter 1F"
   },
   [3591] = {
-    map = "Pewter Pokémon Center 2F Beta"
+    map = "Pewter Snooze Speech House"
   },
   [3592] = {
-    map = "Pewter Snooze Speech House"
+    map = "Route 2 North"
   },
   [3841] = {
     map = "Olivine Port"
@@ -720,13 +717,13 @@
     map = "Fast Ship 1F"
   },
   [3844] = {
-    map = "Fast Ship Cabins NNW, NNE, NE"
+    map = "Fast Ship Cabins Nnw Nne Ne"
   },
   [3845] = {
-    map = "Fast Ship Cabins SW, SSW, NW"
+    map = "Fast Ship Cabins Sw Ssw Nw"
   },
   [3846] = {
-    map = "Fast Ship Cabins SE, SSE, Captain's Cabin"
+    map = "Fast Ship Cabins Se Sse Captains Cabin"
   },
   [3847] = {
     map = "Fast Ship B1F"
@@ -750,25 +747,28 @@
     map = "Route 23"
   },
   [4098] = {
-    map = "Indigo Plateau Pokémon Center 1F"
+    map = "Indigo Plateau Pokecenter 1F"
   },
   [4099] = {
-    map = "Will's Room"
+    map = "Wills Room"
   },
   [4100] = {
-    map = "Koga's Room"
+    map = "Kogas Room"
   },
   [4101] = {
-    map = "Bruno's Room"
+    map = "Brunos Room"
   },
   [4102] = {
-    map = "Karen's Room"
+    map = "Karens Room"
   },
   [4103] = {
-    map = "Lance's Room"
+    map = "Lances Room"
   },
   [4104] = {
-    map = "Hall of Fame"
+    map = "Hall Of Fame"
+  },
+  [4105] = {
+    map = "Hallway Of Fame"
   },
   [4353] = {
     map = "Route 13"
@@ -798,16 +798,16 @@
     map = "Fuchsia Bill Speech House"
   },
   [4362] = {
-    map = "Fuchsia Pokémon Center 1F"
+    map = "Fuchsia Pokecenter 1F"
   },
   [4363] = {
-    map = "Fuchsia Pokémon Center 2F Beta"
+    map = "Safari Zone Wardens Home"
   },
   [4364] = {
-    map = "Safari Zone Warden's Home"
+    map = "Route 15 Fuchsia Gate"
   },
   [4365] = {
-    map = "Route 15 Fuchsia Gate"
+    map = "Fuchsia Gym 2"
   },
   [4609] = {
     map = "Route 8"
@@ -822,33 +822,30 @@
     map = "Lavender Town"
   },
   [4613] = {
-    map = "Lavender Pokémon Center 1F"
+    map = "Lavender Pokecenter 1F"
   },
   [4614] = {
-    map = "Lavender Pokémon Center 2F Beta"
+    map = "Mr Fujis House"
   },
   [4615] = {
-    map = "Mr. Fuji's House"
-  },
-  [4616] = {
     map = "Lavender Town Speech House"
   },
-  [4617] = {
+  [4616] = {
     map = "Lavender Name Rater"
   },
-  [4618] = {
+  [4617] = {
     map = "Lavender Mart"
   },
-  [4619] = {
+  [4618] = {
     map = "Soul House"
   },
-  [4620] = {
+  [4619] = {
     map = "Lav Radio Tower 1F"
   },
-  [4621] = {
+  [4620] = {
     map = "Route 8 Saffron Gate"
   },
-  [4622] = {
+  [4621] = {
     map = "Route 12 Super Rod House"
   },
   [4865] = {
@@ -858,13 +855,13 @@
     map = "Silver Cave Outside"
   },
   [4867] = {
-    map = "Silver Cave Pokémon Center 1F"
+    map = "Silver Cave Pokecenter 1F"
   },
   [4868] = {
     map = "Route 28 Famous Speech House"
   },
   [5121] = {
-    map = "Pokémon Center 2F"
+    map = "Pokecenter 2F"
   },
   [5122] = {
     map = "Trade Center"
@@ -876,10 +873,16 @@
     map = "Time Capsule"
   },
   [5125] = {
-    map = "Mobile Trade Room Mobile"
+    map = "Pokecenter 2F Kanto"
   },
   [5126] = {
-    map = "Mobile Battle Room"
+    map = "Trade Center Kanto"
+  },
+  [5127] = {
+    map = "Colosseum Kanto"
+  },
+  [5128] = {
+    map = "Time Capsule Kanto"
   },
   [5377] = {
     map = "Route 7"
@@ -930,33 +933,30 @@
     map = "Celadon Mansion Roof House"
   },
   [5393] = {
-    map = "Celadon Pokémon Center 1F"
+    map = "Celadon Pokecenter 1F"
   },
   [5394] = {
-    map = "Celadon Pokémon Center 2F Beta"
-  },
-  [5395] = {
     map = "Celadon Game Corner"
   },
-  [5396] = {
+  [5395] = {
     map = "Celadon Game Corner Prize Room"
   },
-  [5397] = {
+  [5396] = {
     map = "Celadon Gym"
   },
-  [5398] = {
+  [5397] = {
     map = "Celadon Cafe"
   },
-  [5399] = {
+  [5398] = {
     map = "Route 16 Fuchsia Speech House"
   },
-  [5400] = {
+  [5399] = {
     map = "Route 16 Gate"
   },
-  [5401] = {
+  [5400] = {
     map = "Route 7 Saffron Gate"
   },
-  [5402] = {
+  [5401] = {
     map = "Route 17 18 Gate"
   },
   [5633] = {
@@ -969,13 +969,13 @@
     map = "Cianwood City"
   },
   [5636] = {
-    map = "Mania's House"
+    map = "Manias House"
   },
   [5637] = {
     map = "Cianwood Gym"
   },
   [5638] = {
-    map = "Cianwood Pokémon Center 1F"
+    map = "Cianwood Pokecenter 1F"
   },
   [5639] = {
     map = "Cianwood Pharmacy"
@@ -987,7 +987,7 @@
     map = "Cianwood Lugia Speech House"
   },
   [5642] = {
-    map = "Poke Seer's House"
+    map = "Poke Seers House"
   },
   [5643] = {
     map = "Battle Tower 1F"
@@ -1007,8 +1007,11 @@
   [5648] = {
     map = "Battle Tower Outside"
   },
+  [5649] = {
+    map = "Cianwood Rock Smash Speech House"
+  },
   [5889] = {
-    map = "Route 2"
+    map = "Route 2 South"
   },
   [5890] = {
     map = "Route 22"
@@ -1032,18 +1035,15 @@
     map = "Viridian Mart"
   },
   [5897] = {
-    map = "Viridian Pokémon Center 1F"
+    map = "Viridian Pokecenter 1F"
   },
   [5898] = {
-    map = "Viridian Pokémon Center 2F Beta"
-  },
-  [5899] = {
     map = "Route 2 Nugget Speech House"
   },
-  [5900] = {
+  [5899] = {
     map = "Route 2 Gate"
   },
-  [5901] = {
+  [5900] = {
     map = "Victory Road Gate"
   },
   [6145] = {
@@ -1059,25 +1059,25 @@
     map = "New Bark Town"
   },
   [6149] = {
-    map = "Elm's Lab"
+    map = "Elms Lab"
   },
   [6150] = {
-    map = "Kris's House 1F"
+    map = "Kriss House 1F"
   },
   [6151] = {
-    map = "Kris's House 2F"
+    map = "Kriss House 2F"
   },
   [6152] = {
-    map = "Kris's Neighbor's House"
+    map = "Kriss Neighbors House"
   },
   [6153] = {
-    map = "Elm's House"
+    map = "Elms House"
   },
   [6154] = {
     map = "Route 26 Heal Speech House"
   },
   [6155] = {
-    map = "Route 26 Day of Week Siblings House"
+    map = "Route 26 Day Of Week Siblings House"
   },
   [6156] = {
     map = "Route 27 Sandstorm House"
@@ -1101,34 +1101,34 @@
     map = "Saffron Mart"
   },
   [6406] = {
-    map = "Saffron Pokémon Center 1F"
+    map = "Saffron Pokecenter 1F"
   },
   [6407] = {
-    map = "Saffron Pokémon Center 2F Beta"
+    map = "Mr Psychics House"
   },
   [6408] = {
-    map = "Mr. Psychic's House"
-  },
-  [6409] = {
     map = "Saffron Train Station"
   },
+  [6409] = {
+    map = "Silph Co 1F"
+  },
   [6410] = {
-    map = "Silph Co. 1F"
+    map = "Copycats House 1F"
   },
   [6411] = {
-    map = "Copycat's House 1F"
+    map = "Copycats House 2F"
   },
   [6412] = {
-    map = "Copycat's House 2F"
-  },
-  [6413] = {
     map = "Route 5 Underground Entrance"
   },
-  [6414] = {
+  [6413] = {
     map = "Route 5 Saffron City Gate"
   },
-  [6415] = {
+  [6414] = {
     map = "Route 5 Cleanse Tag Speech House"
+  },
+  [6415] = {
+    map = "Saffron Gym 2"
   },
   [6657] = {
     map = "Route 30"
@@ -1143,13 +1143,13 @@
     map = "Cherrygrove Mart"
   },
   [6661] = {
-    map = "Cherrygrove Pokémon Center 1F"
+    map = "Cherrygrove Pokecenter 1F"
   },
   [6662] = {
     map = "Cherrygrove Gym Speech House"
   },
   [6663] = {
-    map = "Guide Gent's House"
+    map = "Guide Gents House"
   },
   [6664] = {
     map = "Cherrygrove Evolution Speech House"
@@ -1158,7 +1158,7 @@
     map = "Route 30 Berry Speech House"
   },
   [6666] = {
-    map = "Mr. Pokémon's House"
+    map = "Mr Pokemons House"
   },
   [6667] = {
     map = "Route 31 Violet Gate"
@@ -1525,5 +1525,5 @@
   },
   [8979] = {
     map = "S S Anne 10"
-  }
+  },
 }
