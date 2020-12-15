@@ -11,16 +11,14 @@ def format_name(raw_name: str) -> str:
 
 #assume is formatted
 def output_map_name(map_id, map_name):
-    print (f"  [{map_id}] = " + "{")
-    print(f"    map = \"{map_name}\"")
-    print("  },")
+    print(f"[{map_id}] = \"{map_name}\",")
 
 if __name__ == "__main__":
     filename = sys.argv[1]
     group_number = int(sys.argv[2])
     map_number = 1
     with open(filename) as f:
-        print('{')
+        print('maps = {')
         for line in f:
             if 'newgroup' in line:
                 group_number += 1
